@@ -1,0 +1,8 @@
+C:\Users\zcampbell\Documents\MyDotnet\bin\Debug\netcoreapp1.1\MyDotnet.deps.json
+C:\Users\zcampbell\Documents\MyDotnet\bin\Debug\netcoreapp1.1\MyDotnet.runtimeconfig.json
+C:\Users\zcampbell\Documents\MyDotnet\bin\Debug\netcoreapp1.1\MyDotnet.runtimeconfig.dev.json
+C:\Users\zcampbell\Documents\MyDotnet\bin\Debug\netcoreapp1.1\MyDotnet.dll
+C:\Users\zcampbell\Documents\MyDotnet\bin\Debug\netcoreapp1.1\MyDotnet.pdb
+C:\Users\zcampbell\Documents\MyDotnet\obj\Debug\netcoreapp1.1\MyDotnet.AssemblyInfo.cs
+C:\Users\zcampbell\Documents\MyDotnet\obj\Debug\netcoreapp1.1\MyDotnet.dll
+C:\Users\zcampbell\Documents\MyDotnet\obj\Debug\netcoreapp1.1\MyDotnet.pdb
